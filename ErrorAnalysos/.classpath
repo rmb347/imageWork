@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ErrorAnalysos/lib/ejml-0.15-doc.zip"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ErrorAnalysos/lib/ejml-0.15-src.zip"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ErrorAnalysos/lib/ejml-0.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ErrorAnalysos/lib/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ErrorAnalysos/lib/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Aurnob/Downloads/ws4j-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
