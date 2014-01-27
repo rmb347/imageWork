@@ -1,0 +1,2584 @@
+2013-11-22	13:30:27
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_250/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         430               86      %
+Incorrectly Classified Instances        70               14      %
+Kappa statistic                          0.7038
+Mean absolute error                      0.1402
+Root mean squared error                  0.3742
+Relative absolute error                 30.194  %
+Root relative squared error             77.6757 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-22	13:44:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_350/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_350/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_350/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_350/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_350/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_350/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_350/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_350/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_350/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_350/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2376.0 neg counts:1624.0
+Cost matrix  0    1   
+ 1.46 0   
+
+2013-11-22	13:49:07
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_300/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+pos counts:2376.0 neg counts:1624.0
+Cost matrix  0    1   
+ 1.46 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         431               86.2    %
+Incorrectly Classified Instances        69               13.8    %
+Kappa statistic                          0.7159
+Mean absolute error                      0.1366
+Root mean squared error                  0.3678
+Relative absolute error                 28.3162 %
+Root relative squared error             74.8917 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         421               84.2    %
+Incorrectly Classified Instances        79               15.8    %
+Kappa statistic                          0.6677
+Mean absolute error                      0.1579
+Root mean squared error                  0.3973
+Relative absolute error                 33.3717 %
+Root relative squared error             81.6835 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-22	14:17:15
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_keywords/randomSeed_300/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         421               84.2    %
+Incorrectly Classified Instances        79               15.8    %
+Kappa statistic                          0.6677
+Mean absolute error                      0.1579
+Root mean squared error                  0.3973
+Relative absolute error                 33.3717 %
+Root relative squared error             81.6835 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	07:25:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+sift
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2384.0 neg counts:1616.0
+Cost matrix  0    1   
+ 1.48 0   
+
+Test!
+
+Correctly Classified Instances         312               62.4    %
+Incorrectly Classified Instances       188               37.6    %
+Kappa statistic                          0.2167
+Mean absolute error                      0.38  
+Root mean squared error                  0.5703
+Relative absolute error                 79.2895 %
+Root relative squared error            116.5035 %
+Total Number of Instances              500     
+
+
+2013-11-26	07:54:25
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+sift
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2384.0 neg counts:1616.0
+Cost matrix  0    1   
+ 1.48 0   
+
+Test!
+
+Correctly Classified Instances         312               62.4    %
+Incorrectly Classified Instances       188               37.6    %
+Kappa statistic                          0.2167
+Mean absolute error                      0.38  
+Root mean squared error                  0.5703
+Relative absolute error                 79.2895 %
+Root relative squared error            116.5035 %
+Total Number of Instances              500     
+
+
+2013-11-26	21:49:07
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2382.0 neg counts:1618.0
+Cost matrix  0    1   
+ 1.47 0   
+
+2013-11-26	21:49:37
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2415.0 neg counts:1585.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2434.0 neg counts:1566.0
+Cost matrix  0    1   
+ 1.55 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         371               74.2    %
+Incorrectly Classified Instances       129               25.8    %
+Kappa statistic                          0.4671
+Mean absolute error                      0.2982
+Root mean squared error                  0.4511
+Relative absolute error                 61.7225 %
+Root relative squared error             91.7839 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2358.0 neg counts:1642.0
+Cost matrix  0    1   
+ 1.44 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         344               68.8    %
+Incorrectly Classified Instances       156               31.2    %
+Kappa statistic                          0.3533
+Mean absolute error                      0.3589
+Root mean squared error                  0.5142
+Relative absolute error                 74.8894 %
+Root relative squared error            105.0575 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	22:20:45
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2423.0 neg counts:1577.0
+Cost matrix  0    1   
+ 1.54 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         346               69.2    %
+Incorrectly Classified Instances       154               30.8    %
+Kappa statistic                          0.3739
+Mean absolute error                      0.3425
+Root mean squared error                  0.5011
+Relative absolute error                 73.7863 %
+Root relative squared error            104.0314 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	22:33:25
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2382.0 neg counts:1618.0
+Cost matrix  0    1   
+ 1.47 0   
+
+pos counts:2358.0 neg counts:1642.0
+Cost matrix  0    1   
+ 1.44 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         435               87      %
+Incorrectly Classified Instances        65               13      %
+Kappa statistic                          0.7294
+Mean absolute error                      0.1327
+Root mean squared error                  0.3604
+Relative absolute error                 27.6828 %
+Root relative squared error             73.6314 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	22:38:54
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2415.0 neg counts:1585.0
+Cost matrix  0    1   
+ 1.52 0   
+
+2013-11-26	22:39:11
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2434.0 neg counts:1566.0
+Cost matrix  0    1   
+ 1.55 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         442               88.4    %
+Incorrectly Classified Instances        58               11.6    %
+Kappa statistic                          0.761 
+Mean absolute error                      0.1158
+Root mean squared error                  0.3394
+Relative absolute error                 23.9628 %
+Root relative squared error             69.0653 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2423.0 neg counts:1577.0
+Cost matrix  0    1   
+ 1.54 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         430               86      %
+Incorrectly Classified Instances        70               14      %
+Kappa statistic                          0.7038
+Mean absolute error                      0.1402
+Root mean squared error                  0.3739
+Relative absolute error                 30.2107 %
+Root relative squared error             77.6246 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	22:42:05
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+pos counts:2412.0 neg counts:1588.0
+Cost matrix  0    1   
+ 1.52 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         422               84.4    %
+Incorrectly Classified Instances        78               15.6    %
+Kappa statistic                          0.6715
+Mean absolute error                      0.1561
+Root mean squared error                  0.3949
+Relative absolute error                 32.9781 %
+Root relative squared error             81.1961 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	22:46:06
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+2013-11-26	22:47:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+2013-11-26	22:48:57
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2382.0 neg counts:1618.0
+Cost matrix  0    1   
+ 1.47 0   
+
+pos counts:2412.0 neg counts:1588.0
+Cost matrix  0    1   
+ 1.52 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         348               69.6    %
+Incorrectly Classified Instances       152               30.4    %
+Kappa statistic                          0.3758
+Mean absolute error                      0.3477
+Root mean squared error                  0.4949
+Relative absolute error                 73.4743 %
+Root relative squared error            101.7643 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2450.0 neg counts:1550.0
+Cost matrix  0    1   
+ 1.58 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         421               84.2    %
+Incorrectly Classified Instances        79               15.8    %
+Kappa statistic                          0.6677
+Mean absolute error                      0.1579
+Root mean squared error                  0.3973
+Relative absolute error                 33.3697 %
+Root relative squared error             81.6789 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2382.0 neg counts:1618.0
+Cost matrix  0    1   
+ 1.47 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         431               86.2    %
+Incorrectly Classified Instances        69               13.8    %
+Kappa statistic                          0.7118
+Mean absolute error                      0.1362
+Root mean squared error                  0.3655
+Relative absolute error                 28.4093 %
+Root relative squared error             74.6682 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	23:03:39
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_150/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2415.0 neg counts:1585.0
+Cost matrix  0    1   
+ 1.52 0   
+
+2013-11-26	23:03:54
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_250/test/
+
+Number of train instances: 4000
+Number of test instances: 500
+
+Train!
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2415.0 neg counts:1585.0
+Cost matrix  0    1   
+ 1.52 0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         442               88.4    %
+Incorrectly Classified Instances        58               11.6    %
+Kappa statistic                          0.761 
+Mean absolute error                      0.1161
+Root mean squared error                  0.3394
+Relative absolute error                 24.023  %
+Root relative squared error             69.049  %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+pos counts:2399.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.5  0   
+
+Test!
+*********************************************
+
+Size - : 4000
+
+Correctly Classified Instances         430               86      %
+Incorrectly Classified Instances        70               14      %
+Kappa statistic                          0.7038
+Mean absolute error                      0.1402
+Root mean squared error                  0.3742
+Relative absolute error                 30.2068 %
+Root relative squared error             77.6768 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	23:12:34
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2674.0 neg counts:1826.0
+Cost matrix  0    1   
+ 1.46 0   
+
+2013-11-26	23:12:59
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_150/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_150/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_150/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2736.0 neg counts:1764.0
+Cost matrix  0    1   
+ 1.55 0   
+
+pos counts:2736.0 neg counts:1764.0
+Cost matrix  0    1   
+ 1.55 0   
+
+pos counts:2674.0 neg counts:1826.0
+Cost matrix  0    1   
+ 1.46 0   
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         445               89      %
+Incorrectly Classified Instances        55               11      %
+Kappa statistic                          0.7725
+Mean absolute error                      0.1095
+Root mean squared error                  0.3279
+Relative absolute error                 22.66   %
+Root relative squared error             66.7239 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         446               89.2    %
+Incorrectly Classified Instances        54               10.8    %
+Kappa statistic                          0.7754
+Mean absolute error                      0.1089
+Root mean squared error                  0.3269
+Relative absolute error                 22.717  %
+Root relative squared error             66.7877 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-26	23:32:20
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2653.0 neg counts:1847.0
+Cost matrix  0    1   
+ 1.44 0   
+
+2013-11-26	23:32:35
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_250/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_250/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_250/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2701.0 neg counts:1799.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2701.0 neg counts:1799.0
+Cost matrix  0    1   
+ 1.5  0   
+
+pos counts:2653.0 neg counts:1847.0
+Cost matrix  0    1   
+ 1.44 0   
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         433               86.6    %
+Incorrectly Classified Instances        67               13.4    %
+Kappa statistic                          0.7142
+Mean absolute error                      0.1339
+Root mean squared error                  0.3649
+Relative absolute error                 28.848  %
+Root relative squared error             75.7418 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         449               89.8    %
+Incorrectly Classified Instances        51               10.2    %
+Kappa statistic                          0.7894
+Mean absolute error                      0.1005
+Root mean squared error                  0.3128
+Relative absolute error                 20.9425 %
+Root relative squared error             63.8514 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-27	00:48:42
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2675.0 neg counts:1825.0
+Cost matrix  0    1   
+ 1.47 0   
+
+pos counts:2675.0 neg counts:1825.0
+Cost matrix  0    1   
+ 1.47 0   
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         466               93.2    %
+Incorrectly Classified Instances        34                6.8    %
+Kappa statistic                          0.8551
+Mean absolute error                      0.0695
+Root mean squared error                  0.2615
+Relative absolute error                 14.662  %
+Root relative squared error             53.7147 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-27	00:56:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2753.0 neg counts:1747.0
+Cost matrix  0    1   
+ 1.58 0   
+
+pos counts:2753.0 neg counts:1747.0
+Cost matrix  0    1   
+ 1.58 0   
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         452               90.4    %
+Incorrectly Classified Instances        48                9.6    %
+Kappa statistic                          0.8019
+Mean absolute error                      0.0961
+Root mean squared error                  0.3098
+Relative absolute error                 19.8946 %
+Root relative squared error             63.0454 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-27	01:05:32
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2681.0 neg counts:1819.0
+Cost matrix  0    1   
+ 1.47 0   
+
+pos counts:2681.0 neg counts:1819.0
+Cost matrix  0    1   
+ 1.47 0   
+
+Test!
+*********************************************
+
+Size - : 4500
+
+Correctly Classified Instances         452               90.4    %
+Incorrectly Classified Instances        48                9.6    %
+Kappa statistic                          0.8037
+Mean absolute error                      0.0959
+Root mean squared error                  0.3094
+Relative absolute error                 19.6031 %
+Root relative squared error             62.5781 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-11-27	01:27:05
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+sift
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2675.0 neg counts:1825.0
+Cost matrix  0    1   
+ 1.47 0   
+
+2013-11-27	01:41:16
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+sift
+
+Number of train instances: 4500
+Number of test instances: 500
+
+Train!
+pos counts:2675.0 neg counts:1825.0
+Cost matrix  0    1   
+ 1.47 0   
+
+Test!
+
+Correctly Classified Instances         374               74.8    %
+Incorrectly Classified Instances       126               25.2    %
+Kappa statistic                          0.4804
+Mean absolute error                      0.3018
+Root mean squared error                  0.4468
+Relative absolute error                 63.6558 %
+Root relative squared error             91.777  %
+Total Number of Instances              500     
+
+
+2013-12-01	00:51:18
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 3500
+Number of test instances: 500
+
+Train!
+pos counts:2063.0 neg counts:1437.0
+Cost matrix  0    1   
+ 1.44 0   
+
+pos counts:2074.0 neg counts:1426.0
+Cost matrix  0    1   
+ 1.45 0   
+
+Test!
+*********************************************
+
+Size - : 3500
+
+Correctly Classified Instances         305               61      %
+Incorrectly Classified Instances       195               39      %
+Kappa statistic                          0.1848
+Mean absolute error                      0.39  
+Root mean squared error                  0.6245
+Relative absolute error                 80.6015 %
+Root relative squared error            126.9734 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	00:54:52
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 3700
+Number of test instances: 500
+
+Train!
+pos counts:2189.0 neg counts:1511.0
+Cost matrix  0    1   
+ 1.45 0   
+
+pos counts:2194.0 neg counts:1506.0
+Cost matrix  0    1   
+ 1.46 0   
+
+Test!
+*********************************************
+
+Size - : 3700
+
+Correctly Classified Instances         304               60.8    %
+Incorrectly Classified Instances       196               39.2    %
+Kappa statistic                          0.18  
+Mean absolute error                      0.3922
+Root mean squared error                  0.6261
+Relative absolute error                 81.0472 %
+Root relative squared error            127.2997 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	00:58:27
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 3900
+Number of test instances: 500
+
+Train!
+pos counts:2306.0 neg counts:1594.0
+Cost matrix  0    1   
+ 1.45 0   
+
+pos counts:2319.0 neg counts:1581.0
+Cost matrix  0    1   
+ 1.47 0   
+
+Test!
+*********************************************
+
+Size - : 3900
+
+Correctly Classified Instances         297               59.4    %
+Incorrectly Classified Instances       203               40.6    %
+Kappa statistic                          0.1501
+Mean absolute error                      0.4052
+Root mean squared error                  0.6359
+Relative absolute error                 83.7388 %
+Root relative squared error            129.2997 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:02:38
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 4100
+Number of test instances: 500
+
+Train!
+pos counts:2416.0 neg counts:1684.0
+Cost matrix  0    1   
+ 1.43 0   
+
+pos counts:2429.0 neg counts:1671.0
+Cost matrix  0    1   
+ 1.45 0   
+
+Test!
+*********************************************
+
+Size - : 4100
+
+Correctly Classified Instances         297               59.4    %
+Incorrectly Classified Instances       203               40.6    %
+Kappa statistic                          0.1501
+Mean absolute error                      0.4063
+Root mean squared error                  0.6357
+Relative absolute error                 83.9645 %
+Root relative squared error            129.2446 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:06:46
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 4300
+Number of test instances: 500
+
+Train!
+pos counts:2534.0 neg counts:1766.0
+Cost matrix  0    1   
+ 1.43 0   
+
+pos counts:2550.0 neg counts:1750.0
+Cost matrix  0    1   
+ 1.46 0   
+
+Test!
+*********************************************
+
+Size - : 4300
+
+Correctly Classified Instances         296               59.2    %
+Incorrectly Classified Instances       204               40.8    %
+Kappa statistic                          0.1452
+Mean absolute error                      0.4036
+Root mean squared error                  0.6332
+Relative absolute error                 83.4045 %
+Root relative squared error            128.7509 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:11:41
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 3500
+Number of test instances: 500
+
+Train!
+pos counts:2111.0 neg counts:1389.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2123.0 neg counts:1377.0
+Cost matrix  0    1   
+ 1.54 0   
+
+Test!
+*********************************************
+
+Size - : 3500
+
+Correctly Classified Instances         289               57.8    %
+Incorrectly Classified Instances       211               42.2    %
+Kappa statistic                          0.141 
+Mean absolute error                      0.422 
+Root mean squared error                  0.6496
+Relative absolute error                 85.4681 %
+Root relative squared error            130.7457 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:14:50
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 3700
+Number of test instances: 500
+
+Train!
+pos counts:2228.0 neg counts:1472.0
+Cost matrix  0    1   
+ 1.51 0   
+
+pos counts:2250.0 neg counts:1450.0
+Cost matrix  0    1   
+ 1.55 0   
+
+Test!
+*********************************************
+
+Size - : 3700
+
+Correctly Classified Instances         288               57.6    %
+Incorrectly Classified Instances       212               42.4    %
+Kappa statistic                          0.1373
+Mean absolute error                      0.4241
+Root mean squared error                  0.6511
+Relative absolute error                 85.9001 %
+Root relative squared error            131.0544 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:18:34
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 3900
+Number of test instances: 500
+
+Train!
+pos counts:2351.0 neg counts:1549.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2366.0 neg counts:1534.0
+Cost matrix  0    1   
+ 1.54 0   
+
+Test!
+*********************************************
+
+Size - : 3900
+
+Correctly Classified Instances         285               57      %
+Incorrectly Classified Instances       215               43      %
+Kappa statistic                          0.1255
+Mean absolute error                      0.43  
+Root mean squared error                  0.6557
+Relative absolute error                 87.088  %
+Root relative squared error            131.979  %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:22:01
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 4100
+Number of test instances: 500
+
+Train!
+pos counts:2474.0 neg counts:1626.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2499.0 neg counts:1601.0
+Cost matrix  0    1   
+ 1.56 0   
+
+Test!
+*********************************************
+
+Size - : 4100
+
+Correctly Classified Instances         289               57.8    %
+Incorrectly Classified Instances       211               42.2    %
+Kappa statistic                          0.141 
+Mean absolute error                      0.4219
+Root mean squared error                  0.6493
+Relative absolute error                 85.4563 %
+Root relative squared error            130.6746 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:26:16
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_300/test/
+
+Number of train instances: 4300
+Number of test instances: 500
+
+Train!
+pos counts:2586.0 neg counts:1714.0
+Cost matrix  0    1   
+ 1.51 0   
+
+pos counts:2625.0 neg counts:1675.0
+Cost matrix  0    1   
+ 1.57 0   
+
+Test!
+*********************************************
+
+Size - : 4300
+
+Correctly Classified Instances         288               57.6    %
+Incorrectly Classified Instances       212               42.4    %
+Kappa statistic                          0.1342
+Mean absolute error                      0.4255
+Root mean squared error                  0.6516
+Relative absolute error                 86.1781 %
+Root relative squared error            131.1387 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:31:16
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 3500
+Number of test instances: 500
+
+Train!
+pos counts:2125.0 neg counts:1375.0
+Cost matrix  0    1   
+ 1.55 0   
+
+pos counts:2117.0 neg counts:1383.0
+Cost matrix  0    1   
+ 1.53 0   
+
+Test!
+*********************************************
+
+Size - : 3500
+
+Correctly Classified Instances         285               57      %
+Incorrectly Classified Instances       215               43      %
+Kappa statistic                          0.1136
+Mean absolute error                      0.4303
+Root mean squared error                  0.655 
+Relative absolute error                 89.4862 %
+Root relative squared error            133.5946 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:34:37
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 3700
+Number of test instances: 500
+
+Train!
+pos counts:2233.0 neg counts:1467.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2221.0 neg counts:1479.0
+Cost matrix  0    1   
+ 1.5  0   
+
+Test!
+*********************************************
+
+Size - : 3700
+
+Correctly Classified Instances         287               57.4    %
+Incorrectly Classified Instances       213               42.6    %
+Kappa statistic                          0.1204
+Mean absolute error                      0.4269
+Root mean squared error                  0.6524
+Relative absolute error                 88.7726 %
+Root relative squared error            133.0687 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:38:41
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 3900
+Number of test instances: 500
+
+Train!
+pos counts:2356.0 neg counts:1544.0
+Cost matrix  0    1   
+ 1.53 0   
+
+pos counts:2328.0 neg counts:1572.0
+Cost matrix  0    1   
+ 1.48 0   
+
+Test!
+*********************************************
+
+Size - : 3900
+
+Correctly Classified Instances         283               56.6    %
+Incorrectly Classified Instances       217               43.4    %
+Kappa statistic                          0.1068
+Mean absolute error                      0.4331
+Root mean squared error                  0.6577
+Relative absolute error                 90.0568 %
+Root relative squared error            134.1351 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:42:37
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 4100
+Number of test instances: 500
+
+Train!
+pos counts:2478.0 neg counts:1622.0
+Cost matrix  0    1   
+ 1.53 0   
+
+pos counts:2457.0 neg counts:1643.0
+Cost matrix  0    1   
+ 1.5  0   
+
+Test!
+*********************************************
+
+Size - : 4100
+
+Correctly Classified Instances         283               56.6    %
+Incorrectly Classified Instances       217               43.4    %
+Kappa statistic                          0.101 
+Mean absolute error                      0.4325
+Root mean squared error                  0.6569
+Relative absolute error                 89.9505 %
+Root relative squared error            133.9814 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:46:36
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_200/test/
+
+Number of train instances: 4300
+Number of test instances: 500
+
+Train!
+pos counts:2595.0 neg counts:1705.0
+Cost matrix  0    1   
+ 1.52 0   
+
+pos counts:2567.0 neg counts:1733.0
+Cost matrix  0    1   
+ 1.48 0   
+
+Test!
+*********************************************
+
+Size - : 4300
+
+Correctly Classified Instances         284               56.8    %
+Incorrectly Classified Instances       216               43.2    %
+Kappa statistic                          0.1059
+Mean absolute error                      0.432 
+Root mean squared error                  0.6561
+Relative absolute error                 89.8293 %
+Root relative squared error            133.8132 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	01:57:22
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/test/
+sift_RGB_facial
+
+Number of train instances: 1000
+Number of test instances: 500
+
+Train!
+pos counts:577.0 neg counts:423.0
+Cost matrix  0    1   
+ 1.36 0   
+
+Test!
+
+Correctly Classified Instances         278               55.6    %
+Incorrectly Classified Instances       222               44.4    %
+Kappa statistic                          0.0775
+Mean absolute error                      0.4454
+Root mean squared error                  0.6644
+Relative absolute error                 93.948  %
+Root relative squared error            136.4692 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	01:57:41
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/test/
+sift_RGB_facial
+
+Number of train instances: 1200
+Number of test instances: 500
+
+Train!
+pos counts:697.0 neg counts:503.0
+Cost matrix  0    1   
+ 1.39 0   
+
+Test!
+
+Correctly Classified Instances         280               56      %
+Incorrectly Classified Instances       220               44      %
+Kappa statistic                          0.1094
+Mean absolute error                      0.4362
+Root mean squared error                  0.6574
+Relative absolute error                 92.0092 %
+Root relative squared error            135.045  %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	01:57:58
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/test/
+sift_RGB_facial
+
+Number of train instances: 1400
+Number of test instances: 500
+
+Train!
+pos counts:822.0 neg counts:578.0
+Cost matrix  0    1   
+ 1.42 0   
+
+Test!
+
+Correctly Classified Instances         285               57      %
+Incorrectly Classified Instances       215               43      %
+Kappa statistic                          0.1369
+Mean absolute error                      0.4287
+Root mean squared error                  0.6521
+Relative absolute error                 90.4181 %
+Root relative squared error            133.9402 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	01:58:20
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/test/
+sift_RGB_facial
+
+Number of train instances: 1600
+Number of test instances: 500
+
+Train!
+pos counts:932.0 neg counts:668.0
+Cost matrix  0    1   
+ 1.4  0   
+
+Test!
+
+Correctly Classified Instances         289               57.8    %
+Incorrectly Classified Instances       211               42.2    %
+Kappa statistic                          0.1545
+Mean absolute error                      0.419 
+Root mean squared error                  0.6438
+Relative absolute error                 88.3737 %
+Root relative squared error            132.2422 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	01:58:53
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_100/test/
+sift_RGB_facial
+
+Number of train instances: 1800
+Number of test instances: 500
+
+Train!
+pos counts:1053.0 neg counts:747.0
+Cost matrix  0    1   
+ 1.41 0   
+
+Test!
+
+Correctly Classified Instances         297               59.4    %
+Incorrectly Classified Instances       203               40.6    %
+Kappa statistic                          0.1939
+Mean absolute error                      0.4196
+Root mean squared error                  0.6304
+Relative absolute error                 88.503  %
+Root relative squared error            129.4931 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	01:59:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/test/
+sift_RGB_facial
+
+Number of train instances: 1000
+Number of test instances: 500
+
+Train!
+pos counts:602.0 neg counts:398.0
+Cost matrix  0    1   
+ 1.51 0   
+
+Test!
+
+Correctly Classified Instances         273               54.6    %
+Incorrectly Classified Instances       227               45.4    %
+Kappa statistic                          0.1071
+Mean absolute error                      0.4549
+Root mean squared error                  0.6739
+Relative absolute error                 94.1614 %
+Root relative squared error            137.1269 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:00:16
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/test/
+sift_RGB_facial
+
+Number of train instances: 1200
+Number of test instances: 500
+
+Train!
+pos counts:729.0 neg counts:471.0
+Cost matrix  0    1   
+ 1.55 0   
+
+Test!
+
+Correctly Classified Instances         282               56.4    %
+Incorrectly Classified Instances       218               43.6    %
+Kappa statistic                          0.1356
+Mean absolute error                      0.4377
+Root mean squared error                  0.6598
+Relative absolute error                 90.585  %
+Root relative squared error            134.2536 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:00:34
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/test/
+sift_RGB_facial
+
+Number of train instances: 1400
+Number of test instances: 500
+
+Train!
+pos counts:845.0 neg counts:555.0
+Cost matrix  0    1   
+ 1.52 0   
+
+Test!
+
+Correctly Classified Instances         283               56.6    %
+Incorrectly Classified Instances       217               43.4    %
+Kappa statistic                          0.1427
+Mean absolute error                      0.4324
+Root mean squared error                  0.6562
+Relative absolute error                 89.4979 %
+Root relative squared error            133.5294 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:00:56
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/test/
+sift_RGB_facial
+
+Number of train instances: 1600
+Number of test instances: 500
+
+Train!
+pos counts:978.0 neg counts:622.0
+Cost matrix  0    1   
+ 1.57 0   
+
+Test!
+
+Correctly Classified Instances         295               59      %
+Incorrectly Classified Instances       205               41      %
+Kappa statistic                          0.1609
+Mean absolute error                      0.411 
+Root mean squared error                  0.6401
+Relative absolute error                 85.0699 %
+Root relative squared error            130.2427 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:01:35
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_300/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_300/test/
+sift_RGB_facial
+
+Number of train instances: 1800
+Number of test instances: 500
+
+Train!
+pos counts:1104.0 neg counts:696.0
+Cost matrix  0    1   
+ 1.59 0   
+
+Test!
+
+Correctly Classified Instances         296               59.2    %
+Incorrectly Classified Instances       204               40.8    %
+Kappa statistic                          0.122 
+Mean absolute error                      0.406 
+Root mean squared error                  0.6346
+Relative absolute error                 84.0283 %
+Root relative squared error            129.1305 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:03:02
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/test/
+sift_RGB_facial
+
+Number of train instances: 1000
+Number of test instances: 500
+
+Train!
+pos counts:618.0 neg counts:382.0
+Cost matrix  0    1   
+ 1.62 0   
+
+Test!
+
+Correctly Classified Instances         298               59.6    %
+Incorrectly Classified Instances       202               40.4    %
+Kappa statistic                          0.1963
+Mean absolute error                      0.4043
+Root mean squared error                  0.6356
+Relative absolute error                 82.6645 %
+Root relative squared error            128.5306 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:03:58
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/test/
+sift_RGB_facial
+
+Number of train instances: 1200
+Number of test instances: 500
+
+Train!
+pos counts:722.0 neg counts:478.0
+Cost matrix  0    1   
+ 1.51 0   
+
+Test!
+
+Correctly Classified Instances         283               56.6    %
+Incorrectly Classified Instances       217               43.4    %
+Kappa statistic                          0.1381
+Mean absolute error                      0.4342
+Root mean squared error                  0.656 
+Relative absolute error                 88.7681 %
+Root relative squared error            132.6634 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:04:16
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/test/
+sift_RGB_facial
+
+Number of train instances: 1400
+Number of test instances: 500
+
+Train!
+pos counts:829.0 neg counts:571.0
+Cost matrix  0    1   
+ 1.45 0   
+
+Test!
+
+Correctly Classified Instances         285               57      %
+Incorrectly Classified Instances       215               43      %
+Kappa statistic                          0.152 
+Mean absolute error                      0.4327
+Root mean squared error                  0.6555
+Relative absolute error                 88.4797 %
+Root relative squared error            132.5692 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:04:48
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/test/
+sift_RGB_facial
+
+Number of train instances: 1600
+Number of test instances: 500
+
+Train!
+pos counts:958.0 neg counts:642.0
+Cost matrix  0    1   
+ 1.49 0   
+
+Test!
+
+Correctly Classified Instances         293               58.6    %
+Incorrectly Classified Instances       207               41.4    %
+Kappa statistic                          0.1621
+Mean absolute error                      0.4128
+Root mean squared error                  0.641 
+Relative absolute error                 84.4064 %
+Root relative squared error            129.6346 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:05:32
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB/randomSeed_200/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_RGB_facial/randomSeed_200/test/
+sift_RGB_facial
+
+Number of train instances: 1800
+Number of test instances: 500
+
+Train!
+pos counts:1068.0 neg counts:732.0
+Cost matrix  0    1   
+ 1.46 0   
+
+Test!
+
+Correctly Classified Instances         286               57.2    %
+Incorrectly Classified Instances       214               42.8    %
+Kappa statistic                          0.1301
+Mean absolute error                      0.4248
+Root mean squared error                  0.628 
+Relative absolute error                 86.8464 %
+Root relative squared error            126.9983 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	02:55:49
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+sift
+
+Number of train instances: 3000
+Number of test instances: 500
+
+Train!
+pos counts:1818.0 neg counts:1182.0
+Cost matrix  0    1   
+ 1.54 0   
+
+2013-12-01	02:58:05
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+Test!
+
+Correctly Classified Instances         296               59.2    %
+Incorrectly Classified Instances       204               40.8    %
+Kappa statistic                          0.1507
+Mean absolute error                      0.421 
+Root mean squared error                  0.584 
+Relative absolute error                 88.7999 %
+Root relative squared error            119.9579 %
+Total Number of Instances              500     
+
+
+keywords
+
+Number of train instances: 3000
+Number of test instances: 500
+
+Train!
+pos counts:1818.0 neg counts:1182.0
+Cost matrix  0    1   
+ 1.54 0   
+
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+Test!
+
+Correctly Classified Instances         403               80.6    %
+Incorrectly Classified Instances        97               19.4    %
+Kappa statistic                          0.5988
+Mean absolute error                      0.1966
+Root mean squared error                  0.4382
+Relative absolute error                 41.4637 %
+Root relative squared error             90.0123 %
+Total Number of Instances              500     
+
+
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+RGB
+
+Number of train instances: 3000
+Number of test instances: 500
+
+Train!
+pos counts:1785.0 neg counts:1215.0
+Cost matrix  0    1   
+ 1.47 0   
+
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 3500
+Number of test instances: 500
+
+Train!
+pos counts:2105.0 neg counts:1395.0
+Cost matrix  0    1   
+ 1.51 0   
+
+Test!
+
+Correctly Classified Instances         283               56.6    %
+Incorrectly Classified Instances       217               43.4    %
+Kappa statistic                          0.1167
+Mean absolute error                      0.4526
+Root mean squared error                  0.5371
+Relative absolute error                 93.5324 %
+Root relative squared error            109.1935 %
+Total Number of Instances              500     
+
+
+facial
+
+Number of train instances: 3000
+Number of test instances: 500
+
+Train!
+pos counts:1763.0 neg counts:1237.0
+Cost matrix  0    1   
+ 1.43 0   
+
+Test!
+
+Correctly Classified Instances         287               57.4    %
+Incorrectly Classified Instances       213               42.6    %
+Kappa statistic                         -0.0003
+Mean absolute error                      0.4992
+Root mean squared error                  0.5015
+Relative absolute error                102.581  %
+Root relative squared error            101.6685 %
+Total Number of Instances              500     
+
+
+Done!
+
+2013-12-01	03:03:04
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+pos counts:2105.0 neg counts:1395.0
+Cost matrix  0    1   
+ 1.51 0   
+
+Test!
+*********************************************
+
+Size - : 3500
+
+Correctly Classified Instances         396               79.2    %
+Incorrectly Classified Instances       104               20.8    %
+Kappa statistic                          0.5645
+Mean absolute error                      0.2092
+Root mean squared error                  0.4547
+Relative absolute error                 44.1165 %
+Root relative squared error             93.4028 %
+Total Number of Instances              500     
+
+
+*********************************************
+
+Done!
+
+2013-12-01	03:05:11
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/keywords/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+sift
+
+Number of train instances: 3200
+Number of test instances: 500
+
+Train!
+pos counts:1938.0 neg counts:1262.0
+Cost matrix  0    1   
+ 1.54 0   
+
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/RGB/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial/randomSeed_100/test/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/train/
+/Users/Aurnob/Downloads/images/src/data/sample/rahul/september9/10000/arff_facial/results/sift_facial_keywords/randomSeed_100/test/
+
+Number of train instances: 3700
+Number of test instances: 500
+
+Train!
+pos counts:2225.0 neg counts:1475.0
+Cost matrix  0    1   
+ 1.51 0   
+
+Test!
+
+Correctly Classified Instances         296               59.2    %
+Incorrectly Classified Instances       204               40.8    %
+Kappa statistic                          0.1523
+Mean absolute error                      0.4192
+Root mean squared error                  0.5819
+Relative absolute error                 88.4145 %
+Root relative squared error            119.5298 %
+Total Number of Instances              500     
+
+
+keywords
+
+Number of train instances: 3200
+Number of test instances: 500
+
+Train!
+pos counts:1938.0 neg counts:1262.0
+Cost matrix  0    1   
+ 1.54 0   
+
+Test!
+
+Correctly Classified Instances         396               79.2    %
+Incorrectly Classified Instances       104               20.8    %
+Kappa statistic                          0.5743
+Mean absolute error                      0.1981
+Root mean squared error                  0.4365
+Relative absolute error                 41.7808 %
+Root relative squared error             89.6566 %
+Total Number of Instances              500     
+
+
+RGB
+
+Number of train instances: 3200
+Number of test instances: 500
+
+Train!
+pos counts:1911.0 neg counts:1289.0
+Cost matrix  0    1   
+ 1.48 0   
+
